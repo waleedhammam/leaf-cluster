@@ -15,7 +15,7 @@ spec:
         kind: HelmRepository
         name: weaveworks-charts
         namespace: flux-system
-      version: 0.0.8
+      version: 0.0.7
   install:
     crds: CreateReplace
   interval: 1m0s
